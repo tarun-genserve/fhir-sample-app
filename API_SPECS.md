@@ -32,12 +32,6 @@ Backend OAuth2 authentication service for Epic FHIR API integration using JWT cl
 - **Environment:** Conda (`fhir-app`)
 - **Authentication:** OAuth2 Client Credentials + JWT (RS384)
 
-### Current Status
-- ✅ Server operational on port 8001
-- ✅ JWT generation and signing working
-- ✅ Epic API integration implemented
-- ⚠️ Pending: Epic client registration completion
-
 ---
 
 ## Architecture

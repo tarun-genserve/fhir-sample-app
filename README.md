@@ -2,16 +2,6 @@
 
 A FastAPI application for backend authentication with Epic FHIR using OAuth2 JWT client assertions following the SMART Backend Services specification.
 
-## 📋 Current Status
-
-- ✅ FastAPI server operational on port 8001
-- ✅ JWT assertion generation with RS384 signing
-- ✅ Environment-based configuration
-- ✅ Health check endpoint
-- ✅ Authentication endpoint
-- ✅ Debug endpoints for troubleshooting
-- ⚠️ Epic client registration pending (invalid_client error)
-
 ## 📁 Project Structure
 
 ```
